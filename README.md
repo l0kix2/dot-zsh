@@ -1,4 +1,4 @@
 dot-zsh
 =======
 
-Dotfiler zsh config
+ [Dotfiler](https://github.com/svetlyak40wt/dotfiler/) zsh config
